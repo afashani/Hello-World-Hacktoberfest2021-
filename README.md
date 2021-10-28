@@ -15,3 +15,4 @@
 - > [PHP](https://github.com/afashani/Hello-World-Hacktoberfest2021-/blob/main/helloworld.php)
 - > [Python](https://github.com/afashani/Hello-World-Hacktoberfest2021-/blob/main/helloworld.py)
 - > [Scala](https://github.com/afashani/Hello-World-Hacktoberfest2021-/blob/main/Hello.scala)
+- > [Swift](https://github.com/afashani/Hello-World-Hacktoberfest2021-/blob/main/hello.swift)
