@@ -10,6 +10,7 @@
 - > [Java](https://github.com/afashani/Hello-World-Hacktoberfest2021-/blob/main/HelloWorld.java)
 - > [JavaScript](https://github.com/afashani/Hello-World-Hacktoberfest2021-/blob/patch-1/Hello.js)
 - > [Kotlin](https://github.com/afashani/Hello-World-Hacktoberfest2021-/blob/main/Hello.kt)
-- > [Python](https://github.com/afashani/Hello-World-Hacktoberfest2021-/blob/main/helloworld.py)
+- > [Pascal](https://github.com/afashani/Hello-World-Hacktoberfest2021-/blob/main/hello.pas)
 - > [Perl](https://github.com/afashani/Hello-World-Hacktoberfest2021-/blob/main/main.pl)
 - > [PHP](https://github.com/afashani/Hello-World-Hacktoberfest2021-/blob/main/helloworld.php)
+- > [Python](https://github.com/afashani/Hello-World-Hacktoberfest2021-/blob/main/helloworld.py)
