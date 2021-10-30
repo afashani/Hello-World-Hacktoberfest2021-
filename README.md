@@ -23,4 +23,4 @@
 - > [Swift](https://github.com/afashani/Hello-World-Hacktoberfest2021-/blob/main/hello.swift)
 - > [Elixr] (https://github.com/afashani/Hello-World-Hacktoberfest2021-/blob/main/helloworld.exs)
 - > [Crystal] (https://github.com/afashani/Hello-World-Hacktoberfest2021-/blob/main/helloworld.cr)
-- 
+- > [Haxe](https://github.com/afashani/Hello-World-Hacktoberfest2021-/blob/main/Hello.hx)
