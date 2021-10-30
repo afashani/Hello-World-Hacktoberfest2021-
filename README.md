@@ -21,4 +21,4 @@
 - > [Rust](https://github.com/afashani/Hello-World-Hacktoberfest2021-/blob/main/HelloWorld.rs)
 - > [Scala](https://github.com/afashani/Hello-World-Hacktoberfest2021-/blob/main/Hello.scala)
 - > [Swift](https://github.com/afashani/Hello-World-Hacktoberfest2021-/blob/main/hello.swift)
-- 
+- > [Haxe](https://github.com/afashani/Hello-World-Hacktoberfest2021-/blob/main/Hello.hx)
