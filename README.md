@@ -14,6 +14,7 @@
 - > [Perl](https://github.com/afashani/Hello-World-Hacktoberfest2021-/blob/main/main.pl)
 - > [PHP](https://github.com/afashani/Hello-World-Hacktoberfest2021-/blob/main/helloworld.php)
 - > [Python](https://github.com/afashani/Hello-World-Hacktoberfest2021-/blob/main/helloworld.py)
+- > [Ruby](https://github.com/afashani/Hello-World-Hacktoberfest2021-/blob/main/hello.rb)
 - > [Rust](https://github.com/afashani/Hello-World-Hacktoberfest2021-/blob/main/HelloWorld.rs)
 - > [Scala](https://github.com/afashani/Hello-World-Hacktoberfest2021-/blob/main/Hello.scala)
 - > [Swift](https://github.com/afashani/Hello-World-Hacktoberfest2021-/blob/main/hello.swift)
